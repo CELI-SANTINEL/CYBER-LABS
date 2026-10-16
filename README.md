@@ -82,29 +82,29 @@ Semua materi disajikan **bilingual** (Indonesia + English), dengan kuis interakt
 
 ```
 CYBER-LABS/
-├── app.py                  # Main app (UI, navigasi, kuis, timer)
-├── curriculum.py           # Struktur 12 modul + i18n strings
-├── README.md               # Dokumentasi ini
-├── LICENSE                 # MIT License
-├── .gitignore              # Exclude file
+├── app.py                  
+├── curriculum.py           
+├── README.md               
+├── LICENSE                
+├── .gitignore             
 ├── content/
 │   ├── __init__.py
-│   ├── mod01.py            # Modul 01: Pengenalan (12 sub)
-│   ├── mod02.py            # Modul 02: Networking
-│   ├── mod03.py            # Modul 03: OS Security
-│   ├── mod04.py            # Modul 04: Kriptografi
-│   ├── mod05.py            # Modul 05: Malware
-│   ├── mod06.py            # Modul 06: Social Engineering
-│   ├── mod07.py            # Modul 07: Web Security
-│   ├── mod08.py            # Modul 08: Password & Auth
-│   ├── mod09.py            # Modul 09: Ethical Hacking
-│   ├── mod10.py            # Modul 10: Blue Team
-│   ├── mod11.py            # Modul 11: Digital Forensics
-│   └── mod12.py            # Modul 12: Karier & Sertifikasi
+│   ├── mod01.py        
+│   ├── mod02.py            
+│   ├── mod03.py            
+│   ├── mod04.py           
+│   ├── mod05.py            
+│   ├── mod06.py         
+│   ├── mod07.py         
+│   ├── mod08.py            
+│   ├── mod09.py      
+│   ├── mod10.py            
+│   ├── mod11.py            
+│   └── mod12.py     
 │
-├── progress.json           # (auto-generate) Progress user
-└── session.json            # (auto-generate) Bookmark belajar
-```
+├── progress.json         
+└── session.json         
+``
 
 ---
 
