@@ -1,6 +1,6 @@
 # 🛡️ CYBER LABS
 
-** CYBER LABS**
+CYBER LABS
  
 adalah platform pembelajaran cyber security berbasis terminal yang dirancang untuk siapa saja yang ingin 
 belajar keamanan siber secara terstruktur,
